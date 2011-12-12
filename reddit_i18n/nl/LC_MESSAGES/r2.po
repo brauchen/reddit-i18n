@@ -100,15 +100,15 @@ msgstr "te veel afbeeldingen (je krijgt er maar %d )"
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "ongeldige afbeelding of algemene afbeeldingsfout"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "gereserveerd! nu snel naar iemand's gebruikerpagina om diegene een cadeau te geven!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "gereserveerd!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
@@ -118,15 +118,15 @@ msgstr ""
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "probeer het morgen opnieuw"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "ongeldige css-klasse"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "te veel css-klassen"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
-msgstr "doorsturen..."
+msgstr "aan het doorsturen..."
 
 #: r2/controllers/api.py:2306
 msgid "error (sorry)"
@@ -142,11 +142,11 @@ msgstr "fout (sorry)"
 
 #: r2/controllers/buttons.py:201 r2/controllers/buttons.py:209
 msgid "reddit buttons"
-msgstr "reddit knoppen"
+msgstr "reddit-knoppen"
 
 #: r2/controllers/buttons.py:215
 msgid "reddit widget"
-msgstr "reddit widget"
+msgstr "reddit-widget"
 
 #: r2/controllers/buttons.py:220
 msgid "bookmarklets"
@@ -189,7 +189,7 @@ msgstr "log in om dat te doen"
 
 #: r2/controllers/errors.py:28
 msgid "you need to set a valid email address to do that."
-msgstr "je hebt een werkend email adres nodig om dat te doen."
+msgstr "je hebt een werkend emailadres nodig om dat te doen."
 
 #: r2/controllers/errors.py:29
 msgid "a url is required"
@@ -213,11 +213,11 @@ msgstr "die gebruikersnaam is al in gebruik"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "die gebruikersnaam is al in gebruik door een verwijderde account"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "je kan dat niet naar een gebruiker sturen die je hebt geblokkeerd"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -229,11 +229,11 @@ msgstr "dat kun je niet doen"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "je bent niet als die gebruiker ingelogd"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
-msgstr "de link waarop jij probeert te reageren is verwijderd"
+msgstr "de link waarop je probeert te reageren is verwijderd"
 
 #: r2/controllers/errors.py:40
 msgid "that comment has been deleted"
@@ -281,7 +281,7 @@ msgstr "die gebruiker bestaat niet"
 
 #: r2/controllers/errors.py:51
 msgid "please enter a username"
-msgstr "geef een gebruikersnaam"
+msgstr "geef een gebruikersnaam op"
 
 #: r2/controllers/errors.py:53
 #, python-format
