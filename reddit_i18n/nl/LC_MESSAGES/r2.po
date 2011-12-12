@@ -4958,7 +4958,7 @@ msgstr ""
 #~ msgstr "+ voorpagina"
 
 #~ msgid "- frontpage"
-#~ msgstr "- pagina"
+#~ msgstr "- voorpagina"
 
 #~ msgid "reports"
 #~ msgstr "rapporten"
