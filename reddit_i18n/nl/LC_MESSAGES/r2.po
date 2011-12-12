@@ -3027,13 +3027,13 @@ msgstr "ik vind dit leuk"
 msgid "up vote"
 msgid_plural "up votes"
 msgstr[0] "stem omhoog"
-msgstr[1] "omhoogstemmen"
+msgstr[1] "stemmen omhoog"
 
 #: r2/templates/linkinfobar.html:54
 msgid "down vote"
 msgid_plural "down votes"
 msgstr[0] "stem omlaag"
-msgstr[1] "omlaagstemmen"
+msgstr[1] "stemmen omlaag"
 
 #: r2/templates/linkinfopage.htmllite:28
 #, python-format
@@ -3335,7 +3335,7 @@ msgstr "(totaal voor de opgegeven duur)"
 
 #: r2/templates/paymentform.html:53
 msgid "Please pick your credit card:"
-msgstr "selecteer je kredietkaart, alsjeblieft:"
+msgstr "Selecteer je kredietkaart, alsjeblieft:"
 
 #: r2/templates/paymentform.html:55
 msgid "select..."
@@ -4150,19 +4150,19 @@ msgstr ""
 
 #: r2/templates/promotelinkform.html:329
 msgid "disable comments"
-msgstr ""
+msgstr "reacties uitzetten"
 
 #: r2/templates/promotelinkform.html:361
 msgid "width"
-msgstr ""
+msgstr "breedte"
 
 #: r2/templates/promotelinkform.html:369
 msgid "height"
-msgstr ""
+msgstr "hoogte"
 
 #: r2/templates/promotelinkform.html:414 r2/templates/promotelinkform.html:495
 msgid "promotion history"
-msgstr ""
+msgstr "promotiegeschiedenis"
 
 #: r2/templates/promotelinkform.html:460
 msgid "bidding history"
@@ -4473,7 +4473,7 @@ msgstr ""
 
 #: r2/templates/subredditinfobar.html:75
 msgid "a community for"
-msgstr ""
+msgstr "een gemeenschap voor"
 
 #: r2/templates/subredditinfobar.html:81
 msgid "approve this reddit"
@@ -4481,11 +4481,11 @@ msgstr "deze reddit goedkeuren"
 
 #: r2/templates/subredditinfobar.html:89
 msgid "ban this reddit"
-msgstr "deze reddit bannen"
+msgstr "deze reddit verbannen"
 
 #: r2/templates/subredditinfobar.html:90 r2/templates/subscriptionbox.html:57
 msgid "banned"
-msgstr "gebanned"
+msgstr "verbannen"
 
 #: r2/templates/subredditstylesheet.html:41
 msgid "stylesheet"
