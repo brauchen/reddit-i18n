@@ -3555,7 +3555,7 @@ msgstr "incompleet"
 
 #: r2/templates/prefoptions.html:94
 msgid "volunteer to translate"
-msgstr "wordt vrijwillig vertaler"
+msgstr "word vrijwillig vertaler"
 
 #: r2/templates/prefoptions.html:98
 msgid "content language"
@@ -3567,7 +3567,7 @@ msgstr "klikvoorkeuren"
 
 #: r2/templates/prefoptions.html:107
 msgid "display links with a reddit toolbar"
-msgstr "geef een reddit werkbalk weer bij de links"
+msgstr "geef een reddit-werkbalk weer bij de links"
 
 #: r2/templates/prefoptions.html:113 r2/templates/promotelinkform.html:352
 msgid "media"
